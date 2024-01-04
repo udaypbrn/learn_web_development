@@ -1,8 +1,9 @@
-import knope from "knope";
+git_develop = function()
+{
+    console.log("This method created on Git Develop branch")
+}
 
-var compliment = knope.getCompliment("Ann");
-console.log(compliment)
-
+git_develop()
 
 
 
