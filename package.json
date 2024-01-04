@@ -2,16 +2,24 @@
   "name": "learn-web-development-by-creating-a-food-ordering-app",
   "version": "1.0.0",
   "type": "module",
-  "description": "",
+  "description": "To run the project run the following commands:",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "knope": "^1.1.2"
-  }
+    "knope": "^1.1.2",
+    "typescript": "^5.3.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/udaypbrn/learn_web_development.git"
+  },
+  "bugs": {
+    "url": "https://github.com/udaypbrn/learn_web_development/issues"
+  },
+  "homepage": "https://github.com/udaypbrn/learn_web_development#readme"
 }
